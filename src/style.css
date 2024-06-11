@@ -1,0 +1,25 @@
+.visible {
+    visibility: visible;
+    width: 100px;
+}
+
+.hidden {
+    visibility: hidden;
+    width: 100px;
+}
+
+#dropdown-menu-button {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+#dropdown-menu-div {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    
+}
+
+#dropdown-container {
+    width: 100px;
+}

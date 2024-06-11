@@ -1,0 +1,1 @@
+In this project I made a simple dropdown container. I learned about the children property and how to implement event listeners more
